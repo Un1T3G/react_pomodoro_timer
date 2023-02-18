@@ -19,7 +19,7 @@ users to set customizable time intervals for work and breaks, and includes audio
 
 # Screenshots
 
-<img src="./src/assets/img/screenshots/01.png" width="200"> <img src="./src/assets/img/screenshots/02.png" width="200"> <img src="./src/assets/img/screenshots/03.png" width="200"> <img src="./src/assets/img/screenshots/04.png" width="200"> <img src="./src/assets/img/screenshots/05.png" width="200">
+<img src="./src/assets/screenshots/01.png" width="200"> <img src="./src/assets/screenshots/02.png" width="200"> <img src="./src/assets/screenshots/03.png" width="200"> <img src="./src/assets/screenshots/04.png" width="200"> <img src="./src/assets/screenshots/05.png" width="200">
 
 # Installation and Usage
 
