@@ -1,6 +1,6 @@
 # React Pomodoro Timer App
 
-users to set customizable time intervals for work and breaks, and includes audio notifications when the time is up.
+This project is a Pomodoro timer application built with React and Redux Toolkit. It allows users to set customizable time intervals for work and breaks, and includes audio notifications when the time is up.
 
 # Design
 
